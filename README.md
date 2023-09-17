@@ -1,4 +1,5 @@
-# Ignacio de Miguel Díaz
+![My profile banner](imigueldiaz_banner.jpg)
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/imigueldiaz?label=GitHub&style=flat-square&color=black&logo=github" alt="GitHub followers" height="20"/>
   <img src="https://badges.pufler.dev/visits/imigueldiaz/imigueldiaz?style=flat-square&color=black&logo=github" alt="Visits Badge" height="20"/>
