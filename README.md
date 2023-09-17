@@ -14,7 +14,7 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 - 📚 **Educational Background**: Degree in Librarianship and Information Sciences (Humanities)
 - 🏢 **Work**: [Educaria](https://www.educaria.com)
 - ⚙️ **Tech Stack**: `C#`, `.NET`, `JavaScript`, `Python`, `HTML`, `CSS`
-- 🌱 **Interest**: `Open Source`
+- 🌱 **Interest**: `Open Source`, `Photography`, `Nature`
 - 💼 **Expertise**: `Import/Export`, `Data Analysis & Transformation`, `Code Refactoring`
 - 💬 **Hit me up about**: `Web Dev`, `Design Thinking`, `Music`, `Coffee`
 
@@ -22,21 +22,21 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 
 ## 🧰 Skills
 
-### 🌐 Languages
-<div align="center">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="20"/></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="20"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/></a>
-  <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="20"/></a>
-  <a href="https://www.perl.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" height="20"/></a>
-</div>
+### 🗨️ Languages
+
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="20"/> C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="20"/> .NET](https://dotnet.microsoft.com/)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/> Python](https://www.python.org/)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="20"/> Java](https://www.oracle.com/java/)
+- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" height="20"/> Perl](https://www.perl.org/)
+
 
 ### 🛠️ Frameworks & Libraries
-- [.NET Core](https://dotnet.microsoft.com/)
-- [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
-- [React](https://reactjs.org/)
-- [Flask](https://flask.palletsprojects.com/)
+- 🌐 [.NET Core](https://dotnet.microsoft.com/)
+- 🌐 [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+- ⚛️ [React](https://reactjs.org/)
+- 🌶️ [Flask](https://flask.palletsprojects.com/)
 
 ### 🛠️ Tools & Platforms
 - [Git](https://git-scm.com/): 📦 Version Control
