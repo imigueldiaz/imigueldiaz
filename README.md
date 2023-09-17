@@ -14,10 +14,10 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 
 - 📚 **Educational Background**: Degree in Librarianship and Information Sciences (Humanities)
 - 🏢 **Work**: [Educaria](https://www.educaria.com)
-- ⚙️ **Tech Stack**: `C#`, `.NET`, `JavaScript`, `Python`, `HTML`, `CSS`
+- ⚙️ **Tech Stack**: `C#`, `.NET`, `JavaScript`, `Python`, `HTML`, `CSS`, `Java`, `Perl`
 - 🌱 **Interest**: `Open Source`, `Photography`, `Nature`
 - 💼 **Expertise**: `Import/Export`, `Data Analysis & Transformation`, `Code Refactoring`
-- 💬 **Hit me up about**: `Web Dev`, `Design Thinking`, `Music`, `Coffee`
+- 💬 **Hit me up about**: `Web Dev`, `Design Thinking`, `Music`, `Coffee`, `Photography`
 
 ---
 
@@ -64,5 +64,7 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
   <a href="https://twitter.com/imigueldiaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"/></a>
   <a href="https://linkedin.com/in/imigueldiaz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
   <a href="https://medium.com/@imigueldiaz"><img src="https://img.shields.io/badge/Medium-%12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="20"/></a>
+  <a href="https://instagram.com/imigueldiaz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/></a>
 </p>
+
 
