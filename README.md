@@ -12,6 +12,9 @@
 ## 🧔 About Me
 Hey there! I'm a developer with a twist. While my educational roots lie in Librarianship and Information Sciences —yeah, you heard that right, I come from a humanities background— I've spent the last 20 years crafting a career in software development. My specialty? Import/export, data analysis & transformation, and breathing new life into legacy code by refactoring it for the modern age.
 
+A significant portion of my expertise lies in data interchange between various file formats such as CSV, TSV, fixed-length plain text files, JSON, XML, and similar formats, as well as relational databases. I excel at analyzing both the source and target data structures to understand the data flow and transformations required. However, my true focus is on understanding the ultimate objective and the end user's needs. By gaining a deep understanding of the purpose behind the data interchange and the desired outcomes, I can design and implement solutions that not only handle the technical aspects of data conversion and integration but also provide meaningful insights and value to the end users. This holistic approach allows me to deliver solutions that go beyond mere data manipulation and contribute to the overall success of the project and the satisfaction of the stakeholders.
+
+
 - 📚 **Educational Background**: Degree in Librarianship and Information Sciences (Humanities)
 - 🏢 **Work**: [Educaria](https://www.educaria.com)
 - ⚙️ **Tech Stack**: `C#`, `.NET`, `JavaScript`, `Python`, `HTML`, `CSS`, `Java`, `Perl`
@@ -46,7 +49,7 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
   - 🌐 [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
   - ⚛️ [React](https://reactjs.org/)
   - 🌶️ [Flask](https://flask.palletsprojects.com/)
-  
+
 </details>
 <details>
   <summary>
