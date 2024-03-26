@@ -73,8 +73,9 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 
 ---
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imigueldiaz&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imigueldiaz&layout=compact&theme=dark&bg_color=22272e)](https://github.com/imigueldiaz/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/2e6bb3eb-42fe-4992-80d7-855de20ae4ff.svg)](https://wakatime.com/@2e6bb3eb-42fe-4992-80d7-855de20ae4ff)
 
 ---
 ## 🤝 Let's Connect
