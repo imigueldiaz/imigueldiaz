@@ -24,16 +24,16 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 ## 🧰 Skills
 
 <details>
-<summary>
-  <h3> 🗨️ Languages </h3>
-</summary>
+  <summary>
+    <h3> 🗨️ Languages </h3>
+  </summary>
   
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="20"/> C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="20"/> .NET](https://dotnet.microsoft.com/)
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/> Python](https://www.python.org/)
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="20"/> Java](https://www.oracle.com/java/)
-- [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" height="20"/> Perl](https://www.perl.org/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="20"/> C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="20"/> .NET](https://dotnet.microsoft.com/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="20"/> Python](https://www.python.org/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="20"/> Java](https://www.oracle.com/java/)
+  - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" height="20"/> Perl](https://www.perl.org/)
 
 </details>
 
@@ -42,22 +42,22 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
     <h3> 🛠️ Frameworks & Libraries</h3>
   </summary>
   
-- 🌐 [.NET Core](https://dotnet.microsoft.com/)
-- 🌐 [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
-- ⚛️ [React](https://reactjs.org/)
-- 🌶️ [Flask](https://flask.palletsprojects.com/)
- 
+  - 🌐 [.NET Core](https://dotnet.microsoft.com/)
+  - 🌐 [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+  - ⚛️ [React](https://reactjs.org/)
+  - 🌶️ [Flask](https://flask.palletsprojects.com/)
+  
 </details>
 <details>
   <summary>
     <h3> 🛠️ Tools & Platforms</h3>
   </summary>
   
-- [Git](https://git-scm.com/): 📦 Version Control
-- [GitHub](https://github.com/): 🌐 Collaboration
-- [Linux](https://www.linux.org/): 🐧 OS
-- [VS Code](https://code.visualstudio.com/): 📝 Editor
-- [Windows](https://www.microsoft.com/en-us/windows): 🪟 OS
+  - [Git](https://git-scm.com/): 📦 Version Control
+  - [GitHub](https://github.com/): 🌐 Collaboration
+  - [Linux](https://www.linux.org/): 🐧 OS
+  - [VS Code](https://code.visualstudio.com/): 📝 Editor
+  - [Windows](https://www.microsoft.com/en-us/windows): 🪟 OS
 
 </details>
 
@@ -77,7 +77,7 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
   <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=imigueldiaz&layout=compact&&theme=dark&link=https://www.github.com/imigueldiaz/">
 </p>
 <p align="center">
-[![wakatime](https://wakatime.com/badge/user/2e6bb3eb-42fe-4992-80d7-855de20ae4ff.svg)](https://wakatime.com/@2e6bb3eb-42fe-4992-80d7-855de20ae4ff)
+  <a href="https://wakatime.com/@2e6bb3eb-42fe-4992-80d7-855de20ae4ff"><img src="https://wakatime.com/badge/user/2e6bb3eb-42fe-4992-80d7-855de20ae4ff.svg" alt="Total time coded since Sep 18 2023" /></a>
 </p>
 
 ---
