@@ -14,6 +14,14 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 
 A significant portion of my expertise lies in data interchange between various file formats such as CSV, TSV, fixed-length plain text files, JSON, XML, and similar formats, as well as relational databases. I excel at analyzing both the source and target data structures to understand the data flow and transformations required. However, my true focus is on understanding the ultimate objective and the end user's needs. By gaining a deep understanding of the purpose behind the data interchange and the desired outcomes, I can design and implement solutions that not only handle the technical aspects of data conversion and integration but also provide meaningful insights and value to the end users. This holistic approach allows me to deliver solutions that go beyond mere data manipulation and contribute to the overall success of the project and the satisfaction of the stakeholders.
 
+## 📸 Amateur Photography
+
+When I'm not immersed in the world of code, you'll often find me behind the lens of my camera. As an amateur photographer, I've discovered that photography is not just a hobby but a way to quiet my mind and tap into my creative side. It's a refreshing break from the analytical nature of my work in software development.
+
+Through photography, I'm learning to explore my artistic skills and see the world from new perspectives. I've come to appreciate that not every shot has to be perfect. Even blurred or trepidated photos can have their own unique charm and beauty. It's all about capturing moments, experimenting with different techniques, and most importantly, having fun along the way.
+
+Photography has taught me valuable lessons about patience, observation, and the power of perspective. It's a continuous journey of growth and self-discovery, and I'm excited to see where this creative outlet takes me next.
+
 
 - 📚 **Educational Background**: Degree in Librarianship and Information Sciences (Humanities)
 - 🏢 **Work**: [Educaria](https://www.educaria.com)
