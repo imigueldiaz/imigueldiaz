@@ -1,16 +1,17 @@
 name: Latest Substack Posts
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'
 
 jobs:
-  update-readme-with-substack:
-    name: Update this repo's README with latest Substack posts
+  readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
         with:
-          feed-url: https://yoursubstack.substack.com/feed
-          readme-section: '## Latest Substack Posts'
-          max: 5
+          url: 'https://ignaciodemigueldaz.substack.com/feed'
+          file: 'README.md'
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
