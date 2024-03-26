@@ -53,10 +53,9 @@ Photography has taught me valuable lessons about patience, observation, and the 
 
 ---
 
-## Latest Substack Posts
-<!-- feed start -->
-<!-- feed end -->
+## 📝 Writing Passion
 
+I've been writing all kinds of short stories and microfiction since I was a child. Writing has always been a true passion of mine, allowing me to express my creativity and imagination. However, I'm currently experiencing a bit of a writing block. To overcome this and keep my writing spirit alive, I've decided to repost some of my favorite posts from my now-defunct blog on my Substack. It's a way for me to revisit my past works, share them with a new audience, and hopefully reignite my writing spark. Feel free to check out my Substack, [Stories Along the Way](https://ignaciodemigueldaz.substack.com/), to explore my fictional microstories and stories.
 
 ---
 
