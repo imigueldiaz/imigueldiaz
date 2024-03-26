@@ -74,7 +74,7 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?&imigueldiaz&layout=compact&&theme=default&link=https://www.github.com/imigueldiaz/">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=imigueldiaz&layout=compact&&theme=default&link=https://www.github.com/imigueldiaz/">
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/2e6bb3eb-42fe-4992-80d7-855de20ae4ff.svg)](https://wakatime.com/@2e6bb3eb-42fe-4992-80d7-855de20ae4ff)
