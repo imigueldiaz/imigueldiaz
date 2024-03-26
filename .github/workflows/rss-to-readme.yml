@@ -10,7 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
-        id: feed
         with:
           url: 'https://ignaciodemigueldaz.substack.com/feed'
           file: 'README.md'
