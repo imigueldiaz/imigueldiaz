@@ -73,6 +73,10 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 
 ---
 
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imigueldiaz&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://twitter.com/imigueldiaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"/></a>
