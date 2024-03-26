@@ -53,6 +53,13 @@ Photography has taught me valuable lessons about patience, observation, and the 
 
 ---
 
+## Latest Substack Posts
+<!-- SUBSTACK:START -->
+<!-- SUBSTACK:END -->
+
+
+---
+
 ## 🧰 Skills
 
 <details>

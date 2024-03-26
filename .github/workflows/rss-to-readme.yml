@@ -1,0 +1,16 @@
+name: Latest Substack Posts
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-substack:
+    name: Update this repo's README with latest Substack posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed_url: https://imigueldiaz.substack.com/feed
+          readme_section_name: '## Latest Substack Posts'
+          max_posts_count: 5
