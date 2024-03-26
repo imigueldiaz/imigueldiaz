@@ -73,7 +73,15 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 
 ---
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imigueldiaz&layout=compact&theme=dark&bg_color=22272e)](https://github.com/imigueldiaz/github-readme-stats)
+## 📈 WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imigueldiaz&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="WakaTime Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imigueldiaz&hide=html,css&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imigueldiaz&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j" alt="Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imigueldiaz&layout=compact&theme=dark&bg_color=22272e" alt="WakaTime Stats" height="150"/>
+</p>
+
 
 [![wakatime](https://wakatime.com/badge/user/2e6bb3eb-42fe-4992-80d7-855de20ae4ff.svg)](https://wakatime.com/@2e6bb3eb-42fe-4992-80d7-855de20ae4ff)
 
@@ -81,7 +89,7 @@ Hey there! I'm a developer with a twist. While my educational roots lie in Libra
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://twitter.com/imigueldiaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"/></a>
-  <a href="https://linkedin.com/in/imigueldiaz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
+  <a href="https://linkedin.com/in/imigueldiaz"><img src="https://img.shields.io/badge/L inkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
   <a href="https://medium.com/@imigueldiaz"><img src="https://img.shields.io/badge/Medium-%12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="20"/></a>
   <a href="https://instagram.com/imigueldiaz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/></a>
 </p>
