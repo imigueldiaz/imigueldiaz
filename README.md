@@ -22,6 +22,7 @@ A significant portion of my expertise lies in data interchange between various f
 - 💬 **Hit me up about**: `Web Dev`, `Design Thinking`, `Music`, `Coffee`, `Photography`
 
 ---
+
 ## 📸 Amateur Photography
 
 When I'm not immersed in the world of code, you'll often find me behind the lens of my camera. As an amateur photographer, I've discovered that photography is not just a hobby but a way to quiet my mind and tap into my creative side. It's a refreshing break from the analytical nature of my work in software development.
@@ -29,6 +30,27 @@ When I'm not immersed in the world of code, you'll often find me behind the lens
 Through photography, I'm learning to explore my artistic skills and see the world from new perspectives. I've come to appreciate that not every shot has to be perfect. Even blurred or trepidated photos can have their own unique charm and beauty. It's all about capturing moments, experimenting with different techniques, and most importantly, having fun along the way.
 
 Photography has taught me valuable lessons about patience, observation, and the power of perspective. It's a continuous journey of growth and self-discovery, and I'm excited to see where this creative outlet takes me next.
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/p/C0eLVB5C4qP/">
+        <img src="https://www.instagram.com/p/C0eLVB5C4qP/media/?size=m" alt="Instagram Post 1" width="300" height="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/p/Cr0loc6o8IY/">
+        <img src="https://www.instagram.com/p/Cr0loc6o8IY/media/?size=m" alt="Instagram Post 2" width="300" height="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/p/Cmt0L-doJy5/">
+        <img src="https://www.instagram.com/p/Cmt0L-doJy5/media/?size=m" alt="Instagram Post 3" width="300" height="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🧰 Skills
