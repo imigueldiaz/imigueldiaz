@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed_url: https://ignaciodemigueldaz.substack.com/feed
-          readme_section_name: '## Latest Substack Posts'
-          max_posts_count: 5
+          feed-url: https://yoursubstack.substack.com/feed
+          readme-section: '## Latest Substack Posts'
+          max: 5
