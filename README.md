@@ -34,21 +34,40 @@ Photography has taught me valuable lessons about patience, observation, and the 
 <table>
   <tr>
     <td>
-      <a href="https://www.instagram.com/p/C0eLVB5C4qP/">
+      <a href="https://www.instagram.com/p/C0eLVB5C4qP/" target="_blank">
         <img src="https://www.instagram.com/p/C0eLVB5C4qP/media/?size=m" alt="Instagram Post 1" width="300">
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/p/Cr0loc6o8IY/">
+      <a href="https://www.instagram.com/p/Cr0loc6o8IY/"  target="_blank">
         <img src="https://www.instagram.com/p/Cr0loc6o8IY/media/?size=m" alt="Instagram Post 2" width="300">
       </a>
     </td>
     <td>
-      <a href="https://www.instagram.com/p/Cmt0L-doJy5/">
+      <a href="https://www.instagram.com/p/Cmt0L-doJy5/"  target="_blank">
         <img src="https://www.instagram.com/p/Cmt0L-doJy5/media/?size=m" alt="Instagram Post 3" width="300">
       </a>
     </td>
   </tr>
+<tr>
+    <td>
+      <a href="https://www.instagram.com/p/Ch3y_F9IAOq/" target="_blank">
+        <img src="https://www.instagram.com/p/Ch3y_F9IAOq/media/?size=m" alt="Instagram Post 4" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/p/CgTXWEqIFfK/" target="_blank">
+        <img src="https://www.instagram.com/p/CgTXWEqIFfK/media/?size=m" alt="Instagram Post 5" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/p/CgBWB0oIjjE/"  target="_blank">
+        <img src="https://www.instagram.com/p/CgBWB0oIjjE/media/?size=m" alt="Instagram Post 6" width="300">
+      </a>
+    </td>
+  </tr>
+
+
 </table>
 
 ---
