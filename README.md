@@ -119,12 +119,15 @@ I've been writing all kinds of short stories and microfiction since I was a chil
 </p>
 
 ---
+
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://twitter.com/imigueldiaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"/></a>
-  <a href="https://linkedin.com/in/imigueldiaz"><img src="https://img.shields.io/badge/L inkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
+  <a href="https://linkedin.com/in/imigueldiaz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
   <a href="https://medium.com/@imigueldiaz"><img src="https://img.shields.io/badge/Medium-%12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="20"/></a>
   <a href="https://instagram.com/imigueldiaz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/></a>
+  <a href="https://ignaciodemigueldaz.substack.com/"><img src="https://img.shields.io/badge/Substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" alt="Substack" height="20"/></a>
 </p>
+
 
 
