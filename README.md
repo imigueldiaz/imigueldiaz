@@ -1,7 +1,7 @@
 ![My profile banner](imigueldiaz_banner.jpg)
 
 <p align="center">
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imigueldiaz)](https://github.com/anuraghazra/imigueldiaz)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imigueldiaz)](https://github.com/anuraghazra/imigueldiaz)
 </p>
 
 ---
