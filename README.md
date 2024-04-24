@@ -1,10 +1,7 @@
 ![My profile banner](imigueldiaz_banner.jpg)
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/imigueldiaz?label=GitHub&style=flat-square&color=black&logo=github" alt="GitHub followers" height="20"/>
-  <img src="https://badges.pufler.dev/visits/imigueldiaz/imigueldiaz?style=flat-square&color=black&logo=github" alt="Visits Badge" height="20"/>
-  <img src="https://badges.pufler.dev/years/imigueldiaz?style=flat-square&color=black&logo=github" alt="Years Badge" height="20"/>
-  <img src="https://badges.pufler.dev/repos/imigueldiaz?style=flat-square&color=black&logo=github" alt="Repos Badge" height="20"/>
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imigueldiaz)](https://github.com/anuraghazra/imigueldiaz)
 </p>
 
 ---
