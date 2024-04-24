@@ -1,8 +1,6 @@
 ![My profile banner](imigueldiaz_banner.jpg)
 
-<p align="center">
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=imigueldiaz)](https://github.com/anuraghazra/imigueldiaz)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=imigueldiaz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
