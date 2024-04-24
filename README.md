@@ -1,7 +1,7 @@
 ![My profile banner](imigueldiaz_banner.jpg)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imigueldiaz&theme=oldie&column=3&no-bg=true&no-frame=true" >
+<img src="https://github-profile-trophy.vercel.app/?username=imigueldiaz&theme=oldie&column=-1&no-bg=true&no-frame=true" >
 </p>
 
 ---
