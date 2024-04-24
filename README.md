@@ -1,8 +1,8 @@
 ![My profile banner](imigueldiaz_banner.jpg)
 
-<center>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=imigueldiaz&theme=oldie&column=3&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</center>
+
 ---
 
 ## 🧔 About Me
