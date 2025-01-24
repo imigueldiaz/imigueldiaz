@@ -144,7 +144,7 @@ I've been writing all kinds of short stories and microfiction since I was a chil
   <a href="https://instagram.com/imigueldiaz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/></a>
   <a href="https://ignaciodemigueldaz.substack.com/"><img src="https://img.shields.io/badge/Substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" alt="Substack" height="20"/>
 </a>
-<a href="https://masto.es/@imigueldiaz" rel="me"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+<a href="https://masto.es/@imigueldiaz" rel="me"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" height="20" /></a>
 
 </p>
 
