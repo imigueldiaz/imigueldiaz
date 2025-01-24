@@ -1,3 +1,5 @@
+<meta name="fediverse:creator" content="@imigueldiaz@masto.es">
+
 ![My profile banner](imigueldiaz_banner.jpg)
 
 <p align="center">
