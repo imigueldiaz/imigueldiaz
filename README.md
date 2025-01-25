@@ -1,10 +1,14 @@
-<meta name="fediverse:creator" content="@imigueldiaz@masto.es">
-
 ![My profile banner](imigueldiaz_banner.jpg)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=imigueldiaz&theme=oldie&column=-1&no-bg=true&no-frame=true" >
 </p>
+
+---
+
+## 🌐 Moving to the Fediverse
+
+I'm gradually transitioning away from corporate-controlled social networks towards the Fediverse, as their ethical and moral practices don't align with my values. I've already locked my X (formerly Twitter) account and now actively use decentralized platforms like Bluesky, Mastodon, Pixelfed, and Linkstack. This transition will be reflected in my profiles and connections over time.
 
 ---
 
@@ -140,15 +144,12 @@ I've been writing all kinds of short stories and microfiction since I was a chil
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://twitter.com/imigueldiaz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"/></a>
+  <a href="https://bsky.app/profile/imigueldiaz.dev"><img src="https://img.shields.io/badge/Bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" height="20"/></a>
   <a href="https://linkedin.com/in/imigueldiaz"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
   <a href="https://medium.com/@imigueldiaz"><img src="https://img.shields.io/badge/Medium-%12100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="20"/></a>
-  <a href="https://instagram.com/imigueldiaz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/></a>
+  <a href="https://pixelfed.social/imigueldiaz"><img src="https://img.shields.io/badge/Pixelfed-%23E4405F.svg?&style=for-the-badge&logo=pixelfed&logoColor=white" alt="Pixelfed" height="20"/></a>
   <a href="https://ignaciodemigueldaz.substack.com/"><img src="https://img.shields.io/badge/Substack-%23FF6719.svg?&style=for-the-badge&logo=substack&logoColor=white" alt="Substack" height="20"/>
 </a>
-<a href="https://masto.es/@imigueldiaz"  rel="me"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" height="20" /></a>
+<a href="https://masto.es/@imigueldiaz" rel="me"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" height="20" /></a>
 
 </p>
-
-
-
