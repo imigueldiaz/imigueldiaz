@@ -5,19 +5,29 @@
 
 I'm gradually transitioning away from corporate-controlled social networks towards the Fediverse, as their ethical and moral practices don't align with my values. I've already locked my X (formerly Twitter) account and now actively use decentralized platforms like Bluesky, Mastodon, Pixelfed, and Linkstack. This transition will be reflected in my profiles and connections over time.
 
+## 🇪🇺 Moving to Codeberg
+
+Just as I seek ethical alignment in my social interactions, I seek it in the digital home of my code. I am migrating my repositories to **[Codeberg](https://codeberg.org/imigueldiaz)**, choosing a platform hosted in the European Union that respects data privacy and shares my values of software freedom. This move reflects a conscious decision to distance my creative output from corporate surveillance and align with a community-driven ethos.
+
 ---
 
-## 🧔 About Me
-Hey there! I'm a developer with a twist. While my educational roots lie in Librarianship and Information Sciences —yeah, you heard that right, I come from a humanities background— I've spent the last 20 years crafting a career in software development. My specialty? Import/export, data analysis & transformation, and breathing new life into legacy code by refactoring it for the modern age.
+## 📜 The Narrative of Code
 
-A significant portion of my expertise lies in data interchange between various file formats such as CSV, TSV, fixed-length plain text files, JSON, XML, and similar formats, as well as relational databases. I excel at analyzing both the source and target data structures to understand the data flow and transformations required. However, my true focus is on understanding the ultimate objective and the end user's needs. By gaining a deep understanding of the purpose behind the data interchange and the desired outcomes, I can design and implement solutions that not only handle the technical aspects of data conversion and integration but also provide meaningful insights and value to the end users. This holistic approach allows me to deliver solutions that go beyond mere data manipulation and contribute to the overall success of the project and the satisfaction of the stakeholders.
+I am a developer who views code not just as instructions for a machine, but as a form of literature—a narrative that must be coherent, structured, and meaningful. My journey began in the halls of **Librarianship and Information Sciences**, a background in the humanities ("letras puras") that might seem distant from the binary world of software, yet is intimately connected to it.
 
-- 📚 **Educational Background**: Degree in Librarianship and Information Sciences (Humanities)
-- 🏢 **Work**: [Educaria](https://www.educaria.com)
+For over **24 years**, I have bridged these two worlds. I approach software development with the mindset of an archivist and a storyteller: organizing chaos into structure, ensuring data flows with semantic precision, and refactoring legacy code to tell a clearer, more modern story.
+
+My expertise lies in the **architecture of information**—transforming data across formats (CSV, JSON, XML), optimizing its retrieval, and ensuring its integrity. Just as a librarian understands the soul of a library is not the books but the access to knowledge, I understand that the soul of software is not the syntax, but the value it delivers to the user.
+
+Currently, I am deepening my craft in **C# Performance** and **Docker**, ensuring that the stories my code tells are not only beautiful but efficient and resilient.
+
+- 📚 **Origin**: Degree in Librarianship and Information Sciences (Humanities)
+- 🏢 **Current Chapter**: [Educaria](https://www.educaria.com)
+- ⏳ **Experience**: 24+ Years
 - ⚙️ **Tech Stack**: `C#`, `.NET`, `JavaScript`, `Python`, `HTML`, `CSS`, `Java`, `Perl`
-- 🌱 **Interest**: `Open Source`, `Photography`, `Nature`
-- 💼 **Expertise**: `Import/Export`, `Data Analysis & Transformation`, `Code Refactoring`
-- 💬 **Hit me up about**: `Web Dev`, `Design Thinking`, `Music`, `Coffee`, `Photography`
+- 🌱 **Interests**: `Open Source`, `Photography`, `Nature`, `Literature`
+- 💼 **Expertise**: `Import/Export`, `Data Analysis & Transformation`, `Code Refactoring`, `Performance Optimization`
+- 💬 **Let's discuss**: `Web Dev`, `Design Thinking`, `Music`, `Coffee`, `Photography`, `The intersection of Art and Code`. Feel free to [connect on LinkedIn](https://www.linkedin.com/in/imigueldiaz).
 
 ---
 
@@ -90,6 +100,11 @@ I've been writing all kinds of short stories and microfiction since I was a chil
   - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="20"/> Java](https://www.oracle.com/java/)
   - [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="Perl" height="20"/> Perl](https://www.perl.org/)
 
+  #### Proficiency
+  - **Spanish**: Native
+  - **English**: Full Professional
+  - **French**: Professional Working
+
 </details>
 
 <details>
@@ -116,6 +131,19 @@ I've been writing all kinds of short stories and microfiction since I was a chil
 
 </details>
 
+<details>
+  <summary>
+    <h3> 🏅 Certifications</h3>
+  </summary>
+  
+  - **Certified Kanban Expert (Kanban-EXP™)** - Scrum Institute
+  - **C# Performance Tricks** - Udemy
+  - **C# Memory Tricks** - Udemy
+  - **Docker Curso Intensivo** - Udemy
+  - **Azure DevOps Assessment** - Microsoft
+
+</details>
+
 ---
 
 ## 📈 GitHub Stats
@@ -128,12 +156,7 @@ I've been writing all kinds of short stories and microfiction since I was a chil
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=imigueldiaz&layout=compact&&theme=dark&link=https://www.github.com/imigueldiaz/">
-</p>
-<p align="center">
-  <a href="https://wakatime.com/@2e6bb3eb-42fe-4992-80d7-855de20ae4ff"><img src="https://wakatime.com/badge/user/2e6bb3eb-42fe-4992-80d7-855de20ae4ff.svg" alt="Total time coded since Sep 18 2023" /></a>
-</p>
+
 
 ---
 
