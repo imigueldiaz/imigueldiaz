@@ -1,6 +1,3 @@
-![My profile banner](imigueldiaz_banner.jpg)
-
-
 ## 🌐 Moving to the Fediverse
 
 I'm gradually transitioning away from corporate-controlled social networks towards the Fediverse, as their ethical and moral practices don't align with my values. I've already locked my X (formerly Twitter) account and now actively use decentralized platforms like Bluesky, Mastodon, Pixelfed, and Linkstack. This transition will be reflected in my profiles and connections over time.
